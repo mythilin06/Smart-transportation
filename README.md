@@ -1,15 +1,15 @@
 # Smart-transportation
 A Python-based Smart Transport System that helps users find the best routes between cities in Andhra Pradesh & Telangana using Dijkstra’s Algorithm. The system factors in real-time traffic and weather conditions to provide accurate travel time and cost estimates.
-##About the Project
-The Smart Transportation System is a GUI-based application that allows users to:
-Select a starting point and a destination.
-Choose a mode of transport (Car, Bike, Bus).
-Calculate the best possible route using Dijkstra’s Algorithm.
-Factor in real-time traffic & weather conditions to adjust travel time.
-Display results including distance, estimated time, and cost.
-Open the selected route in Google Maps for navigation.
+# About the Project
+- The Smart Transportation System is a GUI-based application that allows users to:
+- Select a starting point and a destination.
+- Choose a mode of transport (Car, Bike, Bus).
+- Calculate the best possible route using Dijkstra’s Algorithm.
+- Factor in real-time traffic & weather conditions to adjust travel time.
+- Display results including distance, estimated time, and cost.
+- Open the selected route in Google Maps for navigation.
 This project helps travelers, commuters, and transport planners optimize their journeys efficiently.
-##Features
+# Features
 ✔ Shortest Path Calculation - Uses Dijkstra's Algorithm for optimized routing.
 ✔ Real-Time Traffic & Weather Simulation - Adjusts travel time dynamically.
 ✔ Multiple Transport Modes - Supports Car, Bike, and Bus with different speeds.
